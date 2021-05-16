@@ -1,2 +1,2 @@
 # techblog
-Backend Development for a Blogging Application.
+Backend Development for a Blogging Application using Maven.
